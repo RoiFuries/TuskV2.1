@@ -72,7 +72,7 @@ You can access the following resources related to the site's design and structur
 3. Open the `index.html` file in your preferred browser to view the site.
 
 ## Contact Information
-For more information about Tusk, reach out to us via:
+For more information about this project, reach out to us via:
 - **Email**: hola@rmqz.mx
 - **Instagram**: [@roifuries](https://instagram.com/roifuries)
 
@@ -155,7 +155,7 @@ Puedes acceder a los siguientes recursos relacionados con el diseño y estructur
 3. Abre el archivo `index.html` en tu navegador preferido para visualizar el sitio.
 
 ## Información de Contacto
-Para más información sobre Tusk, contáctanos a través de:
+Para más información sobre este proyecto, contáctanos a través de:
 - **Correo Electrónico**: hola@rmqz.mx
 - **Instagram**: [@roifuries](https://instagram.com/roifuries)
 
