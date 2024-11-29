@@ -78,7 +78,7 @@ For more information about Tusk, reach out to us via:
 
 ---
 
-© 2024 Tusk. All rights reserved.
+© 2024 RoiFuries. All rights reserved.
 
 ---
 
@@ -161,5 +161,5 @@ Para más información sobre Tusk, contáctanos a través de:
 
 ---
 
-© 2024 Tusk. Todos los derechos reservados.
+© 2024 Roifuries. Todos los derechos reservados.
 
